@@ -4,8 +4,6 @@
 # In[6]:
 
 
-#Shashank Tumkur Karnick #matriculation = 229777
-
 #Euler Method
 
 import numpy as np
